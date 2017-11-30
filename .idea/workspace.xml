@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe1bd98-dc2a-46cd-afd9-6698e3f58b88" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageArit.py" afterPath="$PROJECT_DIR$/imageArit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookpage.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image_thresholding.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="imageArit.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="imageArit.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imageArit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="34" column="23" lean-forward="false" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            <state relative-caret-position="203">
+              <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image_thresholding.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/image_thresholding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -44,6 +58,7 @@
         <option value="$PROJECT_DIR$/opencvimgpr.py" />
         <option value="$PROJECT_DIR$/videoAnalysis.py" />
         <option value="$PROJECT_DIR$/imageArit.py" />
+        <option value="$PROJECT_DIR$/image_thresholding.py" />
       </list>
     </option>
   </component>
@@ -200,8 +215,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imageArit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="34" column="23" lean-forward="false" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="203">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_thresholding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="46" lean-forward="false" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
