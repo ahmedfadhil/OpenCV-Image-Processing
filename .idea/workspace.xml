@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe1bd98-dc2a-46cd-afd9-6698e3f58b88" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mixed.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/original.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_matching.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/people-walking.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bgReduction.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="feature_matching.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/feature_matching.py">
+      <file leaf-file-name="bgReduction.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bgReduction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            <state relative-caret-position="342">
+              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -55,6 +54,7 @@
         <option value="$PROJECT_DIR$/grabCut.py" />
         <option value="$PROJECT_DIR$/CornerDetection.py" />
         <option value="$PROJECT_DIR$/feature_matching.py" />
+        <option value="$PROJECT_DIR$/bgReduction.py" />
       </list>
     </option>
   </component>
@@ -401,8 +401,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/feature_matching.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        <state relative-caret-position="95">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3D-Matplotlib.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bgReduction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
